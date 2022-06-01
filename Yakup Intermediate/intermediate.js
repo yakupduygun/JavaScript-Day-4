@@ -15,7 +15,7 @@ function dis(){
 function replay(){
     var a = Math.random()*100;
     var b = Math.random()*100;
-    var c = Math.random()*100;
+    var c = Math.random()*50;
     const y = document.getElementById('btn').style.backgroundColor = 'rgb('+a+','+b+','+c+')';
     }
     
